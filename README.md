@@ -7,6 +7,8 @@ Daniel Shen - LIDAR, speaker, LCD
 Travis Giannarakis - Servo, speaker
 
 ## Introduction of the System:
+Final C assembly for the HCS12 dragon12 development board and its peripherals.
+
 The purpose of this system is to aid people who are bound to wheelchairs with limited neck movement.
 The device is placed on the back of the wheelchair facing behind the user. It is then operated
 through the use of a switch. When the switch is pulled high, the device will enter reverse mode. 
