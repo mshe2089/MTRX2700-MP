@@ -6,7 +6,7 @@
 #include "derivative.h"
 
 
-// set button to not be in reverse mode
+// set registers to initialise button
 void init_button(void);
 
 // code to enter reverse mode
